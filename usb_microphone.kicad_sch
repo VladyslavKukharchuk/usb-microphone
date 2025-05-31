@@ -1,0 +1,82 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "dc202712-23ff-46da-8ec2-2a828c683a4d")
+	(paper "A4")
+	(title_block
+		(title "USB Microphone")
+		(date "2025-05-31")
+		(rev "0.1")
+		(company "Vladyslav Kukharchuk <vladyslavziuziun@gmail.com>")
+	)
+	(lib_symbols)
+	(sheet
+		(at 21.59 21.59)
+		(size 71.12 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e395ea73-b08d-4ba3-8b06-fa01b208b024")
+		(property "Sheetname" "Amplifier"
+			(at 21.59 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "amplifier.kicad_sch"
+			(at 21.59 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SSPND" input
+			(at 92.71 55.88 0)
+			(uuid "f61b70d4-95e8-49fb-81e8-fbfd12099697")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "AMPOUT" output
+			(at 92.71 38.1 0)
+			(uuid "f38cb07d-2d5b-43ac-8d30-0fcf56b870b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "usb_microphone"
+				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

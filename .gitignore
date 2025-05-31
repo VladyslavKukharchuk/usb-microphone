@@ -1,0 +1,6 @@
+/usb_microphone-backups
+fp-info-cache
+
+.idea
+.vscode
+.DS_Store
