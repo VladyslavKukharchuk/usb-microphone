@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Microphone.kicad_pro",
+    "filename": "usb_microphone.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -616,6 +616,18 @@
     [
       "e395ea73-b08d-4ba3-8b06-fa01b208b024",
       "Amplifier"
+    ],
+    [
+      "8b5991ae-ddae-4cba-9bee-b5c93b934b0b",
+      "Codec"
+    ],
+    [
+      "d0b66dcc-b67d-4274-be45-69ac5f31ce8f",
+      "Power"
+    ],
+    [
+      "3b6bfc3a-3ecd-4bf7-a684-d469f732a0b7",
+      "Connectors"
     ]
   ],
   "text_variables": {}
