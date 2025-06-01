@@ -1042,7 +1042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f93a491-44bc-4e50-b5c6-6b5f5cd26fb3")
-		(property "Reference" "C8"
+		(property "Reference" "C16"
 			(at 170.18 110.4899 0)
 			(effects
 				(font
@@ -1060,7 +1060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 167.3352 115.57 0)
 			(effects
 				(font
@@ -1096,7 +1096,7 @@
 		(instances
 			(project "usb_microphone"
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "C8")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -1112,7 +1112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "136894d5-706b-4b33-b6e1-11de17c77ed4")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR018"
 			(at 172.72 81.28 0)
 			(effects
 				(font
@@ -1162,7 +1162,7 @@
 		(instances
 			(project "usb_microphone"
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "#PWR04")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -1178,7 +1178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13b92c6f-1af8-4dea-ab49-5c9a16de7cc0")
-		(property "Reference" "C16"
+		(property "Reference" "C17"
 			(at 171.45 80.0099 0)
 			(effects
 				(font
@@ -1196,7 +1196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 168.6052 85.09 0)
 			(effects
 				(font
@@ -1232,7 +1232,7 @@
 		(instances
 			(project "usb_microphone"
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -1248,7 +1248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18ff28e5-9cd5-4fc0-b6a1-5297045fcaaf")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR016"
 			(at 152.4 93.98 0)
 			(effects
 				(font
@@ -1298,7 +1298,7 @@
 		(instances
 			(project "usb_microphone"
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "#PWR09")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -1314,7 +1314,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30dd8bad-1d2b-4016-9d12-ab2d9c3dc8a5")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR017"
 			(at 152.4 124.46 0)
 			(effects
 				(font
@@ -1364,7 +1364,7 @@
 		(instances
 			(project "usb_microphone"
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "#PWR021")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -1456,7 +1456,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5699de4b-8d89-4bc1-b20e-1b21734895ff")
-		(property "Reference" "C13"
+		(property "Reference" "C15"
 			(at 127 80.0099 0)
 			(effects
 				(font
@@ -1474,7 +1474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 124.1552 85.09 0)
 			(effects
 				(font
@@ -1510,7 +1510,7 @@
 		(instances
 			(project "usb_microphone"
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "C13")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -1526,7 +1526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d940fa3-a91b-4a2a-a5c2-fd3825dce2d7")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR015"
 			(at 138.43 111.76 0)
 			(effects
 				(font
@@ -1576,7 +1576,7 @@
 		(instances
 			(project "usb_microphone"
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "#PWR020")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -1592,7 +1592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f581304-5836-4634-aa68-9d7ec3a8ce9f")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR014"
 			(at 123.19 81.28 0)
 			(effects
 				(font
@@ -1642,7 +1642,7 @@
 		(instances
 			(project ""
 				(path "/dc202712-23ff-46da-8ec2-2a828c683a4d/d0b66dcc-b67d-4274-be45-69ac5f31ce8f"
-					(reference "#PWR01")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
